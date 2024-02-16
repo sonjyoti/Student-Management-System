@@ -1,0 +1,45 @@
+.devcontainer {
+    text-align: center;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.developers {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.developer {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+
+.social-links {
+    display: flex;
+    margin-left: 25%;
+}
+
+.social-links a:hover {
+    background: rgba(0, 0, 0, 0.182);
+}
+
+.social-links a {
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    line-height: 1;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
