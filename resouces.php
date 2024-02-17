@@ -285,8 +285,8 @@
                       <td><a class="btn btn-sm btn-primary" href="#" target="_blank" style="background-color: green; border-color: black;">Click here to download</a></td>
                     </tr>
                     <tr>
-                      <td>BCA-HE-6016 Automata Theory and Languages</td>
-                      <td><a class="btn btn-sm btn-primary" href="books/Automata 6th Edition.pdf" target="_blank" style="background-color: green; border-color: black;">Click here to download</a></td>
+                      <td>BCA-HE-6036 Multimedia And Applications</td>
+                      <td><a class="btn btn-sm btn-primary" href="books/Multimedia And Applications.pdf" target="_blank" style="background-color: green; border-color: black;">Click here to download</a></td>
                       <td><a class="btn btn-sm btn-primary" href="#" target="_blank" style="background-color: green; border-color: black;">Click here to download</a></td>
                     </tr>
                     <tr>
