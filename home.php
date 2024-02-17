@@ -285,7 +285,7 @@
                                         <ul>
                                             <li>System Administration Using Linux<span><a href="books/Unix.pdf" style="text-decoration: none; color: green;" target="_blank"> - Download</a></span></li>
                                             <li>Computer Networks <span><a href="books/Computer Networks.pdf" style="text-decoration: none; color: green;" target="_blank"> - Download</a></span></li>
-                                            <li>Automata Theory and Languages <span><a href="books/Automata 6th Edition.pdf" style="text-decoration: none; color: green;" target="_blank"> - Download</a></span></li>
+                                            <li>Multimedia And Applications <span><a href="books/Multimedia And Applications.pdf" style="text-decoration: none; color: green;" target="_blank"> - Download</a></span></li>
                                             <li>Microprocessor and Assembly Language Programming<span><a href="books/Microprocessor and Microcomputer.pdf" style="text-decoration: none; color: green;" target="_blank"> - Download</a></span></li>
                                         </ul>
                                     </div>
