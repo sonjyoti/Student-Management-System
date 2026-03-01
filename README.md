@@ -83,6 +83,53 @@ This project was developed to:
 
 ---
 
+## ▶️ How to Run the Project (Using XAMPP or WAMP)
+
+Follow these steps to run the project on your local computer.
+
+### ✅ Step 1: Install XAMPP or WAMP
+
+Download and install one of the following:
+
+- XAMPP
+- WAMP
+
+After installation, start:
+- Apache
+- MySQL
+
+---
+
+### ✅ Step 2: Move the Project Folder
+
+Copy your project folder and paste it inside:
+
+For XAMPP:
+```bash
+C:\xampp\htdocs\
+```
+For WAMP:
+```bash
+C:\wamp\www\
+```
+
+---
+
+### ✅ Step 3: Create the Database
+
+1. Open your browser.
+2. Go to: `http://localhost/phpmyadmin`
+3. Click **New** and create a database, namely `sms`.
+4. Import the provided `.sql` file from the `db` folder into the database.
+
+---
+
+### ✅ Step 4: Run the Project
+
+Open your browser and go to: `http://localhost/Student-Management-System`
+
+---
+
 ## 📸 Screenshots
 
 ### 🔐 Admin Dashboard
