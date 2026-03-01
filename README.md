@@ -83,14 +83,6 @@ This project was developed to:
 
 ---
 
-## 📌 Project Type
-
-Academic Mini Project
-
----
-
----
-
 ## 📸 Screenshots
 
 ### 🔐 Admin Dashboard
